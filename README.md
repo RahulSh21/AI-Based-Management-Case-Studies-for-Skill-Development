@@ -1,1 +1,2 @@
 # AI-Based-Management-Case-Studies-for-Skill-Development
+In this repository we would be updating with Machine Learning frameworks like TensorFlow, PyTorch, and Scikit-learn, essential for training computers to learn from data. Natural Language Processing (NLP) tools such as NLTK and SpaCy assist in understanding human language, aiding text analysis and content creation. For analyzing data we would be using Pandas and Jupyter Notebooks.
